@@ -1,0 +1,5 @@
+{
+    "version": 2,
+    "name": "GGCRP-Website",
+    "builds": [{ "src": "/(.*)", "dest": "/server.js" }]
+}
